@@ -1,0 +1,11 @@
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojResolveAssemblyReference.cache
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\package.json
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\README.md
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\app.js
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\ioc.js
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\bin\Microsoft.NodejsTools.WebRole.dll
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\entities\engines\IEngine.js
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\entities\vehicles\IVehicle.js
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\entities\vehicles\Car.js
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\entities\engines\V8.js
+e:\code\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\entities\engines\Diesel.js
